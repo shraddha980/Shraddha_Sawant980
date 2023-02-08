@@ -4,8 +4,8 @@
 
 I am Shraddha Sawant, currently pursuing my Full Stack Data Science Internship from Ineuron.ai. I am a Full-Stack developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sawantshraddha/)](https://www.linkedin.com/in/sawantshraddha/)
-[![Medium Badge](https://img.shields.io/badge/rashedul-alam-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@shraddha980)](https://medium.com/@shraddha980)
+[![Linkedin Badge](https://img.shields.io/badge/-ShraddhaSawant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sawantshraddha/)](https://www.linkedin.com/in/sawantshraddha/)
+[![Medium Badge](https://img.shields.io/badge/ShraddhaSawant-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@shraddha980)](https://medium.com/@shraddha980)
 
 ## ⚡ Technologies
 
